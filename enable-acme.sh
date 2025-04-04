@@ -7,7 +7,7 @@
 # Date: 2023-12-27
 SCRIPT_VERSION="2025.03.29.01"
 SCRIPT_NAME="enable-acme.sh"
-UPDATE_URL="https://raw.githubusercontent.com/Admonstrator/glinet-enable-acme/main/enable-acme.sh"
+UPDATE_URL="https://raw.githubusercontent.com/agusalex/glinet-enable-acme/main/enable-acme.sh"
 #
 # Usage: ./enable-acme.sh [--renew]
 # Warning: This script might potentially harm your router. Use it at your own risk.
